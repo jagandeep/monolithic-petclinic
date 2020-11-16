@@ -23,7 +23,7 @@ The following items should be installed in your system:
     ```
 3) **Import into IntelliJ IDEA**
 
-    In the main menu, choose `File -> Open` and select the Petclinic [pom.xml](pom.xml). Click on the `Open` button.
+    In the main menu, chooseÂ `File -> Open` and select theÂ Petclinic [pom.xml](pom.xml). Click on the `Open` button.
 
 4) **Run it on the CLI**
 
@@ -44,3 +44,6 @@ Petclinic uses an in-memory database (HSQLDB) which gets populated at startup wi
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](LICENSE)  
+
+- how to analysis to feature code flow 
+   prepare a sequence diagram of the method call
